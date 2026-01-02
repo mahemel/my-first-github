@@ -1,6 +1,10 @@
-# One time each project to start get
+# 1. One time each project to start get
 git init
+
+# 2. Everytime to add files
 git add .
+
+# 3. Everytime you commit
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/mahemel/my-first-github.git
